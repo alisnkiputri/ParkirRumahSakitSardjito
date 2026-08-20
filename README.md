@@ -6,6 +6,7 @@ Website **RSUD Sardjito** merupakan sebuah website informasi rumah sakit yang di
 ## 📌 Tentang Project
 
 Project ini dibuat sebagai website berbasis web yang menyediakan informasi rumah sakit dengan tampilan yang sederhana, informatif, dan mudah digunakan.
+**Mockup:**[MockupRS](https://raw.githubusercontent.com/alisnkiputri/ParkirRumahSakitSardjito/refs/heads/main/mockup.png)
 
 Website dapat diakses melalui:
 
